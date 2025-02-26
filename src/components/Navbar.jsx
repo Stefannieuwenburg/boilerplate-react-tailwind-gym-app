@@ -44,7 +44,7 @@ const Navbar = () => {
             duration={500}
             className=" hover:text-brightRed transition-all cursor-pointer"
           >
-            About Us
+            About
           </Link>
           <Link
             to="trainers"
@@ -62,7 +62,7 @@ const Navbar = () => {
             duration={500}
             className=" hover:text-brightRed transition-all cursor-pointer"
           >
-            Contact Us
+            Contact
           </Link>
         </nav>
 
@@ -101,7 +101,7 @@ const Navbar = () => {
           duration={500}
           className=" hover:text-brightRed transition-all cursor-pointer"
         >
-          About Us
+          About
         </Link>
         <Link
           to="trainers"
@@ -119,7 +119,7 @@ const Navbar = () => {
           duration={500}
           className=" hover:text-brightRed transition-all cursor-pointer"
         >
-          Contact Us
+          Contact 
         </Link>
       </div>
     </div>

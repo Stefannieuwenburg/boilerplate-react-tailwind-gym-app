@@ -12,7 +12,10 @@ const Footer = () => {
             <h1 className=" font-semibold text-2xl text-brightRed">FitZone</h1>
           </Link>
           <p className=" mt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            FitZone is a fitness center. It is
+            a gym where quality comes first and the personal click is of great
+            importance. For optimal results, use the included fitness guidance.
+            Come visit us sometime and we will explain everything to you.
           </p>
         </div>
         <div>
@@ -23,7 +26,7 @@ const Footer = () => {
           <h1 className=" font-medium text-xl mt-4">Contact</h1>
           <div className=" flex flex-row items-center gap-2 mt-4">
             <AiTwotonePhone size={20} />
-            <p>+91-777-24-12</p>
+            <p>0626142085</p>
           </div>
           <div className=" flex flex-row items-center gap-2">
             <AiOutlineMail size={20} />
@@ -34,7 +37,7 @@ const Footer = () => {
       <div>
         <p className=" text-center mt-4">
           @copyright developed by{" "}
-          <span className=" text-brightRed"> champion programmers</span> | All
+          <span className=" text-brightRed"> Stefan Nieuwenburg</span> | All
           rights reserved
         </p>
       </div>
